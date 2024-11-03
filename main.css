@@ -1,0 +1,10 @@
+.item {
+    display: flex;
+    align-items: center;
+    margin-buttom: 0px;
+}
+
+.move-up, .move-down, .delete {
+    cursor: pointer;
+    margin: 1px;
+}
